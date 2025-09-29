@@ -9,7 +9,7 @@ function WelcomePage() {
   return (
     <div style={styles.wrapper}>
       <Container style={styles.content} className="fade-in">
-        <h1 style={styles.heading} className="slide-down pulse-heading gradient-text">JINU</h1>
+        <h1 style={styles.heading} className="slide-down pulse-heading gradient-text">JITHIN</h1>
         <p style={styles.subheading} className="slide-up">Explore our features and get started today!</p>
         <Link to="/home">
           <Button variant="outline-light" size="lg" className="hover-button">
