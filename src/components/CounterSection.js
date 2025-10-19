@@ -33,7 +33,7 @@ const Counter = ({ target, label }) => {
 const CounterSection = () => {
   return (
     <div className="counter-section">
-      <Counter target={1200} label="Happy Clients" />
+      <Counter target={3000} label="Happy Clients" />
       <Counter target={350} label="Projects Completed" />
       <Counter target={25} label="Awards Won" />
       <Counter target={10} label="Years Experience" />
